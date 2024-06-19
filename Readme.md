@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Aynur Vafin](https://up.htmlacademy.ru/javascript/32/user/681387).
-* Наставник: `Неизвестно`.
+* Студент: [Student](https://up.htmlacademy.ru/javascript/32/user/681387).
+* Наставник: `unknown`.
 
 ---
 
